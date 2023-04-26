@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/PratypusPerry/nodexpress/issues"
   },
-  "homepage": "https://github.com/PratypusPerry/nodexpress#readme"
+  "homepage": "https://github.com/PratypusPerry/nodexpress#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
